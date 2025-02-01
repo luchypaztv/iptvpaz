@@ -17,9 +17,9 @@ http://45.5.151.151:8000/play/a0ny/index.m3u8
 #EXTINF:-1,Telefe 
 http://45.5.151.151:8000/play/a0kf/index.m3u8
 #EXTINF:-1,eltrece
-(aca te quedaste)
+http://138.59.227.7:45888/play/a04q/index.m3u8
 #EXTINF:-1,América TV
-http://45.5.151.151:8000/play/a0c7/index.m3u8
+ACA TE QUEDASTE
 #EXTINF:-1,Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1,Canal 41 Bayres
