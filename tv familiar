@@ -19,37 +19,35 @@ http://45.5.151.151:8000/play/a0kf/index.m3u8
 #EXTINF:-1,eltrece
 http://138.59.227.7:45888/play/a04q/index.m3u8
 #EXTINF:-1,América TV
-ACA TE QUEDASTE
+http://45.5.151.151:8000/play/a0c7/index.m3u8
 #EXTINF:-1,Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1,Canal 41 Bayres
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1,ESPN Premium 
-http://tv-cool.com:25461/CQCx7jFygUps/A49pPXxQ35Sh/163702
+http://45.5.151.151:8000/play/a0fe/index.m3u8
 #EXTINF:-1,ESPN 2
-http://tv-cool.com:25461/CQCx7jFygUps/A49pPXxQ35Sh/135741
+http://45.5.151.151:8000/play/a0nv/index.m3u8
 #EXTINF:-1,ESPN 3
-http://tv-cool.com:25461/CQCx7jFygUps/A49pPXxQ35Sh/77096
+http://45.5.151.151:8000/play/a0hx/index.m3u8
 #EXTINF:-1,TNT Sports 
- http://38.41.8.1:8000/play/a0bn
+http://38.52.182.236:9000/play/a0co
 #EXTINF:-1,Paka Paka 
 http://181.78.27.128:8000/play/a04x/index.m3u8
 #EXTINF:-1,Disney Jr.
-http://tv-cool.com:25461/CQCx7jFygUps/A49pPXxQ35Sh/133888
+http://45.4.1.202:8000/play/a0ye/index.m3u8
 #EXTINF:-1,Cartoon Network
-http://181.78.14.26:8000/play/a01e
-#EXTINF:-1,Cartoon Network HD
-http://38.41.8.1:8000/play/a01w
+http://190.14.242.93:8088/play/a01k
 #EXTINF:-1,Disney XD USA (SAP)
 http://fortv.cc:8080/30550113/30550113/75621
 #EXTINF:-1,Boing
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/playlist.m3u8
+http://79.117.39.146:8000/play/a0a5
 #EXTINF:-1,Kanade TV
 https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 #EXTINF:-1,Ninja Z
 https://mitv.zplay.cl/NinjaZ/index.m3u8
 #EXTINF:-1,Disney Channel
-http://200.115.120.1:8000/play/ca012/index.m3u8
+http://38.44.109.41:8003/play/a00e
 #EXTINF:-1,BitMe
 http://38.44.109.41:8003/play/a00f
 #EXTINF:-1,Disney XD
